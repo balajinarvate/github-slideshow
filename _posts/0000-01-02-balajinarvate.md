@@ -1,6 +1,5 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-"quote:strength is life....!"
+"Remember: Markdown is supported";
 Use the left arrow to go back!
